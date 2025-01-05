@@ -11,7 +11,7 @@ struct Patient {
     string disease;
     string doctor;
 };
-// hello world
+// added coment
 // Function to add a new patient
 void addPatient(vector<Patient>& patients) {
     Patient newPatient;
